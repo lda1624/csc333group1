@@ -4,3 +4,4 @@ weightLBS = int(input("How much do you weigh in pounds? \n"))
 weightKG = weightLBS * 0.453592
 weightKG = str(weightKG)
 print("Your weight in kilograms is:\n " + weightKG)
+print("Lou would prefer the weight in lbs.")  #lou's comment
